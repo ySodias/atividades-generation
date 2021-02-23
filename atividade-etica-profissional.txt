@@ -1,0 +1,25 @@
+﻿SSM-RLW - Apostila 1 - Estudo de Caso sobre Ética
+ 
+
+
+Estudo de Caso sobre Ética na Indústria da Tecnologia
+
+
+Caso 1
+
+Marcela trabalha há 2 meses como desenvolvedora Java em uma startup de tecnologia. Ela está adorando o ambiente de trabalho e as pessoas, mas ao mesmo tempo tem muita ansiedade pois, como é uma startup, os times são enxutos, as rotinas de trabalho são longas e muitas vezes ela deve executar tarefas sem saber como fazê-las, com um grau de complexidade muito elevado e para um nível de desenvolvimento que não é o dela. Ela sempre que pode consulta amigos da indústria de tecnologia que estão em outras empresas, mantêm contato com seus instrutores da Generation, busca códigos abertos e pede ajuda de colegas da equipe, porém na semana passada Marcela construiu um código a partir de uma open source que acabou acarretando no vazamento dos dados de usuários da empresa cliente. Quando o problema veio à tona, supervisores e supervisoras das equipes de tecnologia conversaram individualmente com todas as pessoas desenvolvedoras, quando perguntada sobre o desenvolvimento do código, Marcela disse que não sabia nada sobre, e omitiu de sua supervisora que usou um código de open source.
+
+
+Com base nesse estudo de caso, discuta e responda às seguintes perguntas com sua dupla:
+
+    1. Você acredita que o comportamento de Marcela foi adequado? Ela apresentou uma postura ética e íntegra?  Não, pois ela que ocasionou o problema a o usar um software que talvez ainda não fosse 100% estável e também ao mentir pra sua supervisora gerando desconfiança na equipe dela.
+
+    2. Qual você acredita que foram as razões para Marcela agir dessa maneira? Ansiedade, por querer fazer logo e acabar não usando os métodos mais indicados (pois ela deveria ter visto mais sobre o programa open source antes de usar), e medo por mentir no final, já que foi culpa dela o que aconteceu
+
+    3. Quais podem ser as consequências da postura de Marcela para sua supervisora, colegas de equipe e empresa como um todo? E para sua carreira? Processo para empresa (dependendo de quão grande problema se torne), justa causa para Marcela por não seguir as diretrizes da empresa e agir de forma antiética e desconfiança na equipe. 
+
+    4. Como ela poderia ter agido neste caso? Como poderia ter demonstrado integridade e ética em sua função como desenvolvedora java? Consultar a equipe antes de ter colocado o código em produção, pois eles saberiam informá-la a cerca do código. E se ela não tivesse feito isso, ao final caberia a ela assumir as consequências por seus atos.
+
+
+
+
